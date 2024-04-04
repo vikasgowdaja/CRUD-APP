@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^8.2.4"
+  },
+  "name": "crud-app",
+  "description": "Project name: crud application using mern stack\r Poject author: thewebsources\r website-name: https://thewebsources.com/\r Youtube-channel: https://www.youtube.com/@thewebsources\r Video-link: https://youtu.be/3ywB6hstbfw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
